@@ -19,18 +19,24 @@
   
   <!-- RAG -->
   <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   
   <!-- Web Design -->
   <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
 
+  <!-- GIS -->
+  <img src="https://img.shields.io/badge/GIS-008080?style=for-the-badge&logo=esri&logoColor=white"/>
+
 </p>
 
-My primary programming language is **Python**, and my long-term research interests focus on **Deep Learning, Large Language Models (LLM), Agent Systems, and Geospatial Data Analysis**. I focus on **designing Agent architectures for complex real-world applications**.  
+My primary programming language is **Python**, and my long-term research interests focus on **Deep Learning, Large Language Models (LLM), Agent Systems, and Geospatial Data Analysis**. I focus on designing Agent architectures for complex real-world applications.  
 
-I am currently a **Master’s student in Surveying and Mapping Engineering**, usually based in **Zhengzhou or Nanjing**, with experience in **frontend visualization, database management, geospatial data processing, and model training & analysis**.  
+I am currently a Master’s student in Surveying and Mapping Engineering, usually based in Zhengzhou or Nanjing, with experience in frontend visualization, database management, geospatial data processing, and model training & analysis.  
 
-I aspire to become a **full-stack engineer**, building **efficient, deployable intelligent systems for complex real-world challenges**.  
-**Using intelligent systems to reshape our environment.**  
+I aspire to become a **full-stack engineer**, building efficient, deployable intelligent systems for complex real-world challenges.  **Using intelligent systems to reshape our environment.**  
 
-Scan my WeChat Official Account:  
-[Click to view QR code](./WeChat-QRCode.jpg)
+### 📬 Connect with Me
+[![WeChat QR Code](./WeChat-QRCode.jpg)](./WeChat-QRCode.jpg)  
+[Email: yzhen2001@163.com](mailto:yzhen2001@163.com)
