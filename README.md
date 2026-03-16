@@ -38,5 +38,4 @@ I am currently a Master’s student in Surveying and Mapping Engineering, usuall
 I aspire to become a **full-stack engineer**, building efficient, deployable intelligent systems for complex real-world challenges.  **Using intelligent systems to reshape our environment.**  
 
 ### 📬 Connect with Me
-[![WeChat](https://img.shields.io/badge/WeChat-Add%20Me-09b83e?style=for-the-badge&logo=wechat&logoColor=white)](./WeChat-QRCode.jpg)  
-[![Email](https://img.shields.io/badge/Email-Send%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yzhen2001@163.com)
+[![WeChat](https://img.shields.io/badge/WeChat-09b83e?style=for-the-badge&logo=wechat&logoColor=white)](./WeChat-QRCode.jpg) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yzhen2001@163.com)
