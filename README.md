@@ -36,4 +36,4 @@ I hope to grow into a **full-stack engineer** and an **independent developer** k
 
 Scan my WeChat Official Account:
 
-<img src="./WeChat-QRCode.jpg" alt="WeChat QR Code" width="200"/>
+[Click to view QR code](./WeChat-QRCode.jpg)
